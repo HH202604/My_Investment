@@ -8,7 +8,7 @@ https://easyinvesting.app/#/guru
    따라서 드래킨밀러가 현재 가장 실세라고 보면 됨.
 
 
-![image](https://github.com/user-attachments/assets/7443dbbf-fa20-4a38-8d1a-74e5c9df9c45)
+<img width="936" height="578" alt="image" src="https://github.com/user-attachments/assets/3a680af9-6db2-4910-80df-a8abdb04f76f" />
 <img width="1143" height="646" alt="image" src="https://github.com/user-attachments/assets/63cdd920-a807-4e0a-bdf3-94f98e0507de" />
 
 
